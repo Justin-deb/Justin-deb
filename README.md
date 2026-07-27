@@ -22,7 +22,7 @@
 
 ### **Infrastructure**
 - Docker
-- DOcker Compose
+- Docker Compose
 
 ### **Databases**
 - MySQL
